@@ -1,6 +1,5 @@
 # SH-CNN
-This is a high-speed deep learning based phase retrieval approach for Shack-Hartmann wavefront sensor used in astronomical adaptive optics.
-This repository contains PyTorch implementation for the paper: "Deep Phase Retrieval for Astronomical Shack-Hartmann Wavefront Sensor"
+This repository contains PyTorch implementation for the paper: "Deep Phase Retrieval for Astronomical Shack-Hartmann Wavefront Sensor". It is a high-speed deep learning based phase retrieval approach for Shack-Hartmann wavefront sensor used in astronomical adaptive optics.
 
 ### Setup:
 Clone this project using:
